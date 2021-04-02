@@ -9,6 +9,5 @@ O layout é responsivo, podendo ser utilizado tanto em dispositivos móveis, com
 
   - HTML5, CSS3 e JavaScript
   - JQuery
-  - Flexbox
 
 ---
